@@ -1,2 +1,2 @@
-# Kitap-Y-netimi-
+# Kitap-Yonetimi-
 Python ile yapılmış bir kitap yönetimi 
